@@ -2,3 +2,28 @@
 Python Notes
 ────────────
 
+─────────────────────────────────────────
+Download Link
+─────────────────────────────────────────
+https://www.python.org/downloads/windows/
+python-3.11.1-amd64.exe
+─────────────────────────────────────────
+
+────────────────
+python --version
+
+────────────────
+3.11.1
+────────────────
+
+──────────────────────
+Project Structure
+──────────────────────
+hello-world/
+    .gitignore
+    README.md
+    venv/
+    hello_world/
+        __init__.py
+        hello_world.py
+──────────────────────
