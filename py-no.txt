@@ -53,8 +53,6 @@ print('Hello, world!')
 
 
 ────────────────────────
-Git Bash
-────────────────────────
 python hello_world_01.py
 ────────────────────────
 Hello, world!
